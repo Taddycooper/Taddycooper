@@ -1,5 +1,5 @@
 ## Welcome
-Hello My name is Taddycooper and welcome to my Github profile I will mostly make repos for fun or to learn something! **I would also like to thank my lord and saviour Jesus Christ for giving me the talent of coding and staying with me the whole way.**
+Hello My name is Taddycooper and welcome to my Github profile I will mostly make repos for fun or to learn something! **I would also like to thank my lord and saviour Jesus Christ for giving me the talent of coding.**
 
 # Contact
 Currently the only way to contact me is on **Youtube**: [www.youtube.com/@Taddycooper](https://www.youtube.com/@Taddycooper)
