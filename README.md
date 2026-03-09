@@ -9,6 +9,11 @@ When I made this readme (I will be updating it constantly) **I have only posted 
 - **ATM simulator** - basic ATM functions like deposit, check balance, and withdraw
 - **batch file storage** a place where I create batch files and learn batchscript.
 
+## What languages I am learning
+
+<img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
+<img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
+
 But I am most focused on **C#** for making softwares and games.
 
 # Thanks for Visiting
