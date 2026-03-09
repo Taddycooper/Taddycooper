@@ -11,8 +11,10 @@ When I made this readme (I will be updating it constantly) **I have only posted 
 
 ## What languages I am learning
 
-<img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
-<img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
+<p align="center">
+  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
+</p>
 
 But I am most focused on **C#** for making softwares and games.
 
