@@ -16,7 +16,7 @@ When I made this readme (I will be updating it constantly) **I have only posted 
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
 </p>
 
-But I am most focused on **C#** for making softwares and games.
+But I am most focused on **C++** for making softwares and games.
 
 # Thanks for Visiting
 thanks for visiting my github profile and if you have any questions please contact me. **God bless brothers and sisters.**
