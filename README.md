@@ -1,6 +1,6 @@
 ## hello there
 
-hello, I am Nathaniel, or Taddycooper ai like to play ROBLOX and I sometimes like to program!
+hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I sometimes like to program!
 
 # Contact
 
