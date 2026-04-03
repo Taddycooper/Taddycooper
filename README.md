@@ -1,7 +1,9 @@
-## Welcome
-Hello My name is Taddycooper and welcome to my Github profile I will mostly make repos for fun or to learn something! **I would also like to thank my lord and saviour Jesus Christ for giving me the ability to program.**
+## hello there
+
+hello, I am Nathaniel, or Taddycooper ai like to play ROBLOX and I sometimes like to program!
 
 # Contact
+
 Currently the only way to contact me is on **Youtube**: [www.youtube.com/@Taddycooper](https://www.youtube.com/@Taddycooper)
 
 # What I do
