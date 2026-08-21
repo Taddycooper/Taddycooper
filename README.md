@@ -1,6 +1,6 @@
 ## hello there
 
-hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I sometimes like to code
+hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I like to code.
 
 ## What I do
 
@@ -9,6 +9,6 @@ hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I sometimes like
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
 </p>
 
-But I am mostly focused on **C++** for making softwares focused on speed and stability!
+But I am mostly focused on **C++**
 
  
