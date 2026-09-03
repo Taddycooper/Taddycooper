@@ -1,6 +1,6 @@
 ## hello there
 
-hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I like to code.
+hello, I am Nathaniel, or Taddycooper I like to play ROBLOX and I like to code. I don't post on Github that much anymore.
 
 ## What I do
 
